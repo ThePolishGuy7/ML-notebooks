@@ -21,7 +21,7 @@ To run all the notebooks smoothly on your local machine, it is highly recommende
 
 1. Clone the repository and navigate to the project directory:
     ```bash
-    git clone [https://github.com/ThePolishGuy7/ML-notebooks.git](https://github.com/ThePolishGuy7/ML-notebooks.git)
+    git clone https://github.com/ThePolishGuy7/ML-notebooks.git
     cd ML-notebooks
     ```
 
